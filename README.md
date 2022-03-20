@@ -18,10 +18,12 @@
 
 → Prediction for an input image looks like this:
 
-Input image: 
+### Input image: 
 
 ![](https://raw.githubusercontent.com/neilsaxena/Face-Mask-Prediction/main/Prediction/input_image.jpg)
-Output Image:
+
+### Output Image:
+
 ![](https://raw.githubusercontent.com/neilsaxena/Face-Mask-Prediction/main/Prediction/image_output.jpg)
 # Installation
 → In the command prompt first go to the directory in which requirements.txt file is present and then install all the required libraries using below command
