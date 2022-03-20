@@ -1,7 +1,7 @@
 # Corona face mask detection
-→ In this project pre-trained Single Shot MultiBox Detector (SSD) face detector is used to detect all the faces in an input image and then our custom trained model is used to predict that the face contain a mask or not.
+→ In this project pre-trained Single Shot MultiBox Detector (SSD) face detector is used to detect all the faces in an input image and then our custom trained model is used to predict that the faces in the image contains facemask or not.
 
-→ CNN model to predict a face contains a facemask or not is designed using the concepts of InceptionNet and ResNet. Basically we combined two inception blocks with two resent blocks. The architecture of our Convolutional Neural Network can be seen below: 
+→ CNN model to predict that a face contains a facemask or not is designed using the concepts of InceptionNet and ResNet. Basically we combined two inception blocks with two resent blocks. The architecture of the Convolutional Neural Network can be seen below: 
 
 ![](https://raw.githubusercontent.com/neilsaxena/Face-Mask-Prediction/main/Prediction/Model_Architecture.png)
 → After training it gives us an accuracy of 97.78%
